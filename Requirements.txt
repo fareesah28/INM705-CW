@@ -1,0 +1,13 @@
+tensorflow
+transformers
+opencv-python-headless==4.5.5.64
+Pillow
+numpy
+scikit-learn
+tqdm
+wandb
+matplotlib
+seaborn
+tensorflow-addons
+tensorflow-hub
+scikit-build
