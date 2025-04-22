@@ -1,5 +1,6 @@
-tensorflow
-transformers
+torch
+transformers>=4.31.0
+huggingface-hub
 opencv-python-headless==4.5.5.64
 Pillow
 numpy
@@ -8,6 +9,4 @@ tqdm
 wandb
 matplotlib
 seaborn
-tensorflow-addons
-tensorflow-hub
 scikit-build
