@@ -17,6 +17,18 @@ Each notebook also includes:
 * Detailed markdowns explaining the architecture setup, experimental phases, hyperparameter tuning, and result interpretations.
 * Links to corresponding Weights & Biases (wandb) project logs for further exploration. If you encounter any issues accessing the wandb logs, feel free to reach out and we’ll assist with access.
 
+#### Notebook Viewing Note
+
+If you encounter the following error while trying to view the Jupyter Notebooks (`.ipynb`) on GitHub:
+
+*Invalid Notebook: There was an error rendering your Notebook: the 'state' key is missing from 'metadata.widgets'. Add 'state' to each, or remove 'metadata.widgets'.*
+
+This is a **GitHub rendering issue** related to Jupyter widget metadata. It does **not affect the actual notebook functionality**.
+
+> **Solution:**  
+Please **download the notebook** and open it locally using any Jupyter-supported IDE.  
+The notebook should work as expected without any issues.
+
 ## Dataset Setup
 Before running any code:
 1. **Download the dataset zip file from the following link: https://drive.google.com/file/d/145OHbfMAaot25bgx2tDRsiIXvOKLvezi/view?usp=sharing**
