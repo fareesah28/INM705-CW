@@ -26,7 +26,7 @@ If you encounter the following error while trying to view the Jupyter Notebooks 
 This is a **GitHub rendering issue** related to Jupyter widget metadata. It does **not affect the actual notebook functionality**.
 
 > **Solution:**  
-Please **download the notebook** and open it locally using any Jupyter-supported IDE.  
+Please **download the notebook** and open it using any Jupyter-supported IDE.  
 The notebook should work as expected without any issues.
 
 ## Dataset Setup
